@@ -9,3 +9,7 @@ I'm Kyle, a full-stack developer! For the past 7 1/2 years, I've been working in
 - ⚡ Fun fact: I collect/build LEGO... usually spaceships
 
 Tech Stack: FE: React.js BE: Node.js DB: PostgreSQL
+
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleCardwell)](https://github.com/KyleCardwell/github-readme-stats)
+
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleCardwell&theme=radical&hide=glsl,python)
