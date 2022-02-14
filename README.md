@@ -12,4 +12,4 @@ Tech Stack: FE: React.js BE: Node.js DB: PostgreSQL
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleCardwell)](https://github.com/KyleCardwell/github-readme-stats)
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleCardwell&theme=radical&hide=glsl,python)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleCardwell&theme=radical&hide=glsl,python)
